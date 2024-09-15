@@ -44,7 +44,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakib1808&show_icons=true&count_private=true)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib1808&show_icons=true&locale=en&layout=compact" alt="rakib1808" width="350" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib1808&show_icons=true&locale=en&layout=compact" alt="rakib1808" width="400" /></p>
   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib1808) 
