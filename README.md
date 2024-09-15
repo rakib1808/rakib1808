@@ -1,8 +1,6 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib1808&label=Profile%20views&color=0e75b6&style=flat" alt="rakib1808" /> </p>
 <h1 align="center">Hi 👋, I'm Rakib Hasan</h1> 
 <h3 align="center">I am a passionate front-end web developer. I specialize in building responsive, user-friendly websites using technologies like React, JavaScript, HTML, and CSS. I thrive on bringing designs to life and ensuring seamless user experiences through clean, efficient code.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib1808&label=Profile%20views&color=0e75b6&style=flat" alt="rakib1808" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rakib1808" target="blank"><img src="https://img.shields.io/twitter/follow/rakib1808?logo=twitter&style=for-the-badge" alt="rakib1808" /></a> </p>
 
