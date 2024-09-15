@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib1808" alt="rakib1808" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rakib1808" target="blank"><img src="https://img.shields.io/twitter/follow/rakib1808?logo=twitter&style=for-the-badge" alt="rakib1808" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rakib1808" target="blank"><img src="https://img.shields.io/twitter/follow/rakib1808?logo=twitter&style=for-the-badge" alt="rakib1808" /></a> </p>
 
 - 🔭 I’m currently working on [fiver](https://www.fiverr.com/rakibhasan1808)
 
