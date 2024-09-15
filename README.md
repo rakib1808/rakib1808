@@ -1,4 +1,5 @@
 ![I am a Web Developer](https://pbs.twimg.com/profile_images/1743962470828605440/Ilj9_-P1_400x400.jpg)
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Rakib Hasan</h1> 
 <h3 align="center">I am a passionate front-end web developer. I specialize in building responsive, user-friendly websites using technologies like React, JavaScript, HTML, and CSS. I thrive on bringing designs to life and ensuring seamless user experiences through clean, efficient code.</h3>
 
