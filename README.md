@@ -5,16 +5,13 @@
 <p align="left"> <a href="https://twitter.com/rakib1808" target="blank"><img src="https://img.shields.io/twitter/follow/rakib1808?logo=twitter&style=for-the-badge" alt="rakib1808" /></a> </p>
 
 -  I’m currently working on [fiver](https://www.fiverr.com/rakibhasan1808)
-
 -  I’m currently learning **JavaScript**
-
--  I’m looking to collaborate on [github](https://github.com/rakib1808)
-
 -  I’m looking for help with [Porrtfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
+-  
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://github.com/https://github.com/rakib1808" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/rakib1808" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakib1808/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib1808/" height="30" width="40" /></a>
+  <a href="https://github.com/https://github.com/rakib1808" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/rakib1808" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakib1808/" target=" "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib1808/" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/rakib1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rakib1808" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/https://www.codechef.com/users/rakib1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rakib1808" height="30" width="40" /></a>
   <a href="https://discord.gg/https://discord.com/channels/1273243898247905372/1273243898692636752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1273243898247905372/1273243898692636752" height="30" width="40" /></a>
