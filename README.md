@@ -42,5 +42,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib1808&show_icons=true&locale=en&layout=compact" alt="rakib1808" width="400" /></p>
   
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rakib1808/contributions?format=svg&private=true)  
  
