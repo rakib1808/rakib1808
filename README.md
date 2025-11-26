@@ -2,7 +2,7 @@
 <h1 align="center">Hello! I’m Rakib Hasan, a passionate Front-End Developer from Bangladesh.</h1> 
 <p align="center">I specialize in HTML, CSS, Tailwind CSS, and have growing skills in JavaScript, React and  Responsive Web Design. I focus on clean code, quality, communication, modern, and user-friendly websites that work perfectly on all devices. Let’s bring your ideas to life with quality and creativity!</p>
 
-<p align="left"> <a href="https://twitter.com/rakib1808" target="blank"><img src="https://img.shields.io/twitter/follow/rakib1808?logo=twitter&style=for-the-badge" alt="rakib1808" /></a> </p>
+<p align="left"> FOLLOW @rakib1808 </p>
 
 -  I’m currently working on [fiver](https://www.fiverr.com/rakibhasan1808)
 -  I’m currently learning ***JavaScript***
