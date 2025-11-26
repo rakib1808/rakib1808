@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/rakib1808" target="blank"><img src="https://img.shields.io/twitter/follow/rakib1808?logo=twitter&style=for-the-badge" alt="rakib1808" /></a> </p>
 
-- 🔭 I’m currently working on [fiver](https://www.fiverr.com/rakibhasan1808)
+-  I’m currently working on [fiver](https://www.fiverr.com/rakibhasan1808)
 
-- 🌱 I’m currently learning **JavaScript**
+-  I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on [github](https://github.com/rakib1808)
+-  I’m looking to collaborate on [github](https://github.com/rakib1808)
 
-- 🤝 I’m looking for help with [Porrtfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
+-  I’m looking for help with [Porrtfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
