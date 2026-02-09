@@ -6,6 +6,7 @@
 ---
 
 <p align="center">I specialize in HTML, CSS, Tailwind CSS, and have growing skills in JavaScript, React and  Responsive Web Design. I focus on clean code, quality, communication, modern, and user-friendly websites that work perfectly on all devices. Let’s bring your ideas to life with quality and creativity!</p>
+
 ---
 
 <h2 align="left"> FOLLOW <a href="https://github.com/rakib1808/">@rakib1808 </a></h2> 
