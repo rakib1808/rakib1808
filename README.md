@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib1808&label=Profile%20views&color=0e75b6&style=flat" alt="rakib1808" /> </p>
+
 <h1 align="center">Hello! I’m Rakib Hasan.</h1> a   from Bangladesh
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=+A+Passionate+FrontEnd+Developer+%7C+I+specialize+In+HTML,CSS,TailwindCSS+;JavaScript+Enthusiast+%7C+Problem+Solver+;Building+Scalable+Solutions;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=CSE+Student+%7C+FontEnd+Developer;JavaScript+Enthusiast+%7C+I+Specialize+;HTML+CSS+TailwindCSS;Updating+Myself+Daily!" alt="Typing SVG" />
 </div>
 <p align="center">I specialize in HTML, CSS, Tailwind CSS, and have growing skills in JavaScript, React and  Responsive Web Design. I focus on clean code, quality, communication, modern, and user-friendly websites that work perfectly on all devices. Let’s bring your ideas to life with quality and creativity!</p>
 
