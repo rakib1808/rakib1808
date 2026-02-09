@@ -39,10 +39,20 @@
   <a href="https://https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
   <a href="https:https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="git" width="40" height="40"/>
 </div>
-
+   
 ---
 
+##  GitHub Analytics
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=proalamin&theme=tokyonight" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=proalamin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
   
 
  
