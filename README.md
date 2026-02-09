@@ -53,10 +53,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib1808&theme=tokyonight" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib1808&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
 ---
   
 
