@@ -1,6 +1,6 @@
 <div align="center">
  <h1> Hello! I’m Rakib Hasan.</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=%7C+A+FontEnd+Developer+%7C;JavaScript+Renegade+%7C+I+Specialize+;HTML,+CSS,+TailwindCSS;Updating+Myself+Daily!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=%7C+A+FrontEnd+Developer+%7C;JavaScript+Renegade+%7C+I+Specialize+;HTML,+CSS,+TailwindCSS;Updating+Myself+Daily!" alt="Typing SVG" />
 </div>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧰 &nbsp; Languages, Technologies, Software Tools
+###  &nbsp; Languages, Technologies, Software Tools
 <div align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Let's Connect:</h2>
 <p align="center">
   <a href="https://github.com/rakib1808"><img align="center" src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/rakib1808" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/rakib1808/" target=" "><img align="center" src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib1808/" height="30" width="40" /></a>
