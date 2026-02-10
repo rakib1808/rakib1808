@@ -19,7 +19,8 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/skills/frontend/html.png" alt="HTML" width="75" title="HTML"/>
+      
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     </td>
     <td>
       <img src="./assets/skills/frontend/css.png" alt="CSS" width="75" title="CSS"/>
