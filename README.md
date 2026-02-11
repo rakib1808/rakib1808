@@ -60,33 +60,12 @@
     </td>
   </tr>
   <tr>
+    <td></td>
     <td>
       <a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
     </td>
     <td>
-      <img src="./assets/skills/frontend/bundlers.png" width="75"
-           alt="Bundlers and task managers such as Webpack, Gulp"
-           title="Bundlers and task managers such as Webpack, Gulp"
-      />
-    </td>
-    <td>
-      <img src="./assets/skills/other/git.png" width="75"
-           alt="Git, as well as technologies such as GitHub, GitLab and Bitbucket"
-           title="Git, as well as technologies such as GitHub, GitLab and Bitbucket"/>
-    </td>
-    <td>
-      <img src="./assets/skills/other/docker.png" alt="Docker" width="75" title="Docker"/>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-      <img src="./assets/skills/other/linters.png" width="75"
-           alt="Linters and code formatters such as ESLint, Stylelint and Prettier"
-           title="Linters and code formatters such as ESLint, Stylelint and Prettier"/>
-    </td>
-    <td>
-      <img src="./assets/skills/other/figma.png" alt="Figma and Adobe Photoshop" width="75" title="Figma and Adobe Photoshop"/>
+      <a href="https://https://eslint.org/en-US/docs/Web/eslint" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/> </a>
     </td>
     <td></td>
   </tr>
