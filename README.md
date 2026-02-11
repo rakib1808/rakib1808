@@ -18,7 +18,7 @@
 
 ---
 
-### Languages, Technologies, Software Tools
+# Languages, Technologies, Software Tools
 <table align="center">
   <tr>
     <td>
