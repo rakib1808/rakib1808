@@ -1,6 +1,7 @@
 <div align="center">
  <h1 color=#F5A623> Hello! I’m Rakib Hasan.</h1>
-![Hello! I’m Rakib Hasan](https://your-image-link-here.png)
+![Hello! I’m Rakib Hasan](https://img.shields.io/badge/-Hello!%20I%E2%80%99m%20Rakib%20Hasan-F5A623?style=for-the-badge)
+
 
 
 
