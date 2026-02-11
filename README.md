@@ -78,7 +78,7 @@
 <table align="center">
   <tr>
     <td> 
-      <a href="https://fiverr.com/rakibhasan1808"><img  src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt=" https://www.fiverr.com/rakibhasan1808" title="Rakib's Fiverr" width="75"/></a>
+      <a href="https://fiverr.com/rakibhasan1808"><img  src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt=" https://fiverr.com/rakibhasan1808" title="Rakib's Fiverr" width="75"/></a>
     </td>
     <td>
       <a href="https://github.com/rakib1808"><img  src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/rakib1808" title="Rakib's Github" width="75"/></a>
