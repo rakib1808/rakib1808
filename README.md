@@ -79,7 +79,7 @@
  <tr>
   <td> 
     <a href="https://www.freelancer.com.bd/u/rakibhasan1808">
-      <img src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/freelancer.svg" 
+      <img src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
            alt="Rakib's Freelancer" 
            title="Rakib's Freelancer" 
            width="75"/>
