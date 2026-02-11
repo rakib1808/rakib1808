@@ -78,10 +78,10 @@
 <table align="center">
  <tr>
   <td> 
-    <a href="https://fiverr.com/rakibhasan1808">
-      <img src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" 
-           alt="Rakib's Fiverr" 
-           title="Rakib's Fiverr" 
+    <a href="https://www.freelancer.com.bd/u/rakibhasan1808">
+      <img src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/freelancer.svg" 
+           alt="Rakib's Freelancer" 
+           title="Rakib's Freelancer" 
            width="75"/>
     </a>
   </td>
