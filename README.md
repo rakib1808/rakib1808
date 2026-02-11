@@ -78,25 +78,25 @@
 <table align="center">
   <tr>
     <td> 
-      <a href="https://fiverr.com/rakibhasan1808"><img align="center" src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt=" https://www.fiverr.com/rakibhasan1808" title="Rakib's Fiver" width="75"/></a>
+      <a href="https://fiverr.com/rakibhasan1808"><img  src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt=" https://www.fiverr.com/rakibhasan1808" title="Rakib's Fiverr" width="75"/></a>
     </td>
     <td>
-      <a href="https://github.com/rakib1808"><img align="center" src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/rakib1808" title="Rakib's Github" width="75"/></a>
+      <a href="https://github.com/rakib1808"><img  src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/rakib1808" title="Rakib's Github" width="75"/></a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/rakib1808/" target=" "><img align="center" src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib1808/" title="Rakib's Linkdin" width="75" /></a>
+      <a href="https://www.linkedin.com/in/rakib1808/"><img src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakib1808/" title="Rakib's Linkdin" width="75" /></a>
     </td>
       <td>
-      <a href="https://www.facebook.com/rakib1808" target=" "><img align="center" src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rakib1808" title="Rakib's fb" width="75" /></a>
+      <a href="https://www.facebook.com/rakib1808" ><img  src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rakib1808" title="Rakib's fb" width="75" /></a>
     </td>
   </tr>
    <tr>
     <td> </td>
     <td>
-      <a href="https://discord.com/channels/1273243898247905372/1273243898692636752" target=" "><img align="center" src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1273243898247905372/1273243898692636752" title="Rakib's Discord" width="75" /></a>
+      <a href="https://discord.com/channels/1273243898247905372/1273243898692636752" ><img  src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1273243898247905372/1273243898692636752" title="Rakib's Discord" width="75" /></a>
     </td>
     <td>
-      <a href="https://www.codechef.com/users/rakib1808" target=" "><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rakib1808" title="Rakib's Codechef" width="75" /></a>
+      <a href="https://www.codechef.com/users/rakib1808"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rakib1808" title="Rakib's Codechef" width="75" /></a>
     </td>
       <td> </td>
   </tr>
