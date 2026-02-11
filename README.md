@@ -1,10 +1,5 @@
 <div align="center">
  <h1 color=#F5A623> Hello! I’m Rakib Hasan.</h1>
-![Hello! I’m Rakib Hasan](https://img.shields.io/badge/-Hello!%20I%E2%80%99m%20Rakib%20Hasan-F5A623?style=for-the-badge)
-
-
-
-
  
 <img src="https://readme-typing-svg.herokuapp.com?font=SFMono-Regular+Code&size=26&duration=3500&pause=1000&color=F5A623&center=true&vCenter=true&width=450&lines=%7C+A+FrontEnd+Developer+%7C;JS+Renegade+%7C+I+Specialize+;HTML,+CSS,+TailwindCSS;Updating+Myself+Daily!" alt="Typing SVG" />
 </div>
