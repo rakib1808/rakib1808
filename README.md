@@ -89,7 +89,7 @@
 ##  GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib1808&theme=gruvbox&border_radius" height="200" width="100"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib1808&theme=gruvbox&border_radius" height="200" width="1000"/>
 </div>
 
 ---
