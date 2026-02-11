@@ -79,7 +79,7 @@
  <tr>
   <td> 
     <a href="https://fiverr.com/rakibhasan1808">
-      <img src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" 
+      <img src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/fiverr-svgrepo-com.svg" 
            alt="Rakib's Fiverr" 
            title="Rakib's Fiverr" 
            width="75"/>
@@ -114,10 +114,20 @@
    <tr>
     <td> </td>
     <td>
-      <a href="https://discord.com/channels/1273243898247905372/1273243898692636752" ><img  src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1273243898247905372/1273243898692636752" title="Rakib's Discord" width="75" /></a>
+      <a href="https://discord.com/channels/1273243898247905372/1273243898692636752" >
+       <img  src="https://raw.githubusercontent.com/rakib1808/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+            alt="Rakib's Discord" 
+            title="Rakib's Discord" 
+            width="75" />
+      </a>
     </td>
     <td>
-      <a href="https://www.codechef.com/users/rakib1808"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rakib1808" title="Rakib's Codechef" width="75" /></a>
+      <a href="https://www.codechef.com/users/rakib1808">
+       <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+          alt="Rakib's Codechef" 
+          title="Rakib's Codechef" 
+          width="75" />
+      </a>
     </td>
       <td> </td>
   </tr>
