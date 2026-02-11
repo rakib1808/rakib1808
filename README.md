@@ -79,7 +79,7 @@
  <tr>
   <td> 
     <a href="https://fiverr.com/rakibhasan1808">
-      <img src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/fiverr-svgrepo-com.svg" 
+      <img src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" 
            alt="Rakib's Fiverr" 
            title="Rakib's Fiverr" 
            width="75"/>
