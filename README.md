@@ -12,7 +12,7 @@
 
 <h2 align="left"> FOLLOW <a href="https://github.com/rakib1808/">@rakib1808 </a></h2> 
 
--  I’m looking for help with [Porrtfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
+-  I’m looking for help with [Portfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
 
 ---
 
@@ -77,7 +77,7 @@
 <h2 align="left">Let's Connect:</h2>
 <table align="center">
   <tr>
-    <td>   https://www.fiverr.com/rakibhasan1808
+    <td> 
       <a href="https://www.fiverr.com/rakibhasan1808"><img align="center" src="https://raw.githubusercontent.com/rakibhasan1808/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt=" https://www.fiverr.com/rakibhasan1808" title="Rakib's Fiver" width="75"/></a>
     </td>
     <td>
