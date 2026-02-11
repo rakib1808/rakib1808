@@ -12,7 +12,7 @@
 
 <h2 align="left"> FOLLOW <a href="https://github.com/rakib1808/">@rakib1808 </a></h2> 
 
--  I’m looking for help with [Portfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
+-  My [Portfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
 
 ---
 
