@@ -15,7 +15,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Languages, Technologies, Software Tools
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> Languages, Technologies, Software Tools
 <table align="center">
   <tr>
     <td>
