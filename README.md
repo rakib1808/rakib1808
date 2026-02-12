@@ -9,7 +9,7 @@
 
 ---
 
-# ✍️ About Me: 
+## ✍️ About Me: 
 
 - 👨‍💻 Visit My [Portfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)for more details about me.
 - 📫 How to reach me **rakibhasan@gmail.com**
@@ -139,7 +139,7 @@
  
 ---
 
-## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="45">  GitHub Analytics
+## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40">  GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib1808&theme=gruvbox&border_radius" height="250"/>
