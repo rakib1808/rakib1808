@@ -5,17 +5,22 @@
 
 ---
 
-<p align="center">I specialize in HTML, CSS, Tailwind CSS, and have growing skills in JavaScript, React and  Responsive Web Design. I focus on clean code, quality, communication, modern, and user-friendly websites that work perfectly on all devices. Let’s bring your ideas to life with quality and creativity!</p>
+**<p align="center">I specialize in HTML, CSS, Tailwind CSS, and have growing skills in JavaScript, React and  Responsive Web Design. I focus on clean code, quality, communication, modern, and user-friendly websites that work perfectly on all devices. Let’s bring your ideas to life with quality and creativity!</p>**
 
 ---
 
-<h2 align="left"> FOLLOW <a href="https://github.com/rakib1808/">@rakib1808 </a></h2> 
+# ✍️ About Me: 
 
-- Visit My [Portfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)
+- 👨‍💻 Visit My [Portfolio](https://rakib1808.github.io/webdeveloper-porttfolio/)for more details about me.
+- 📫 How to reach me **rakibhasan@gmail.com**
+- 💬 Ask me about **Anything**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤️ I Love writing code and learning new tools
+- ⚡ Fun fact **I think I'm funny 😅**
 
 ---
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> Languages, Technologies, Software Tools
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages, Technologies, Software Tools
 <table align="center">
   <tr>
     <td>
@@ -73,7 +78,7 @@
 
 ---
 
-<h2 align="left">Let's Connect:</h2>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Let's Connect:
 <table align="center">
  <tr>
   <td> 
@@ -134,7 +139,7 @@
  
 ---
 
-##  GitHub Analytics
+## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="50">  GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib1808&theme=gruvbox&border_radius" height="250"/>
