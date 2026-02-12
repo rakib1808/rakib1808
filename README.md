@@ -1,7 +1,7 @@
 <div align="center">
  <h1> Hello! I’m Rakib Hasan.</h1>
  
-<img src="https://readme-typing-svg.herokuapp.com?font=SFMono-Regular+Code&size=26&duration=3500&pause=1000&color=BFBFBF&center=true&vCenter=true&width=450&lines=%7C+A+FrontEnd+Developer+%7C;JS+Renegade+%7C+I+Specialize+;HTML,+CSS,+TailwindCSS;Updating+Myself+Daily!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SFMono-Regular+Code&size=26&duration=3500&pause=1000&color=E0E0E0&center=true&vCenter=true&width=450&lines=%7C+A+FrontEnd+Developer+%7C;JS+Renegade+%7C+I+Specialize+;HTML,+CSS,+TailwindCSS;Updating+Myself+Daily!" alt="Typing SVG" />
 </div>
 
 ---
