@@ -12,7 +12,7 @@
 ## ✍️ About Me: 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 👨‍💻 Visit [My Portfolio Site](https://rakibhasanportfoli.netlify.app/) for more details about me.
+- 👨‍💻 Visit [My Portfolio Site](https://rakib1808.github.io/porttfolio/) for more details about me.
 - 📫 How to reach me **rakibhasan@gmail.com**
 - 💬 Ask me about ***Anything***
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
